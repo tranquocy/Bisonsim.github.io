@@ -34,9 +34,8 @@ Depends: >iOS13
 Architecture: iphoneos-arm
 Filename: ./debs/com.pulandres.safestdn_1.60_iphoneos-arm.deb
 Size: 9327236
-MD5sum: 06a71b14c2e6fc5585d323d2cc118340
+MD5sum: 693bd17c89ce7d144bcdd938c12f56fc175d922f
 Description: For iCloud Bypass iPhone
 Name: SafeShutdown
 Author: pulandres
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
-
