@@ -38,7 +38,7 @@ MD5sum: 06a71b14c2e6fc5585d323d2cc118340
 Description: This is tweak for bypass iphone
 Name: SafeShutdown
 Author: pulandres
-Depiction: https://bisonsim.github.io/repo/depictions/?p=safestdn
+Depiction: https://bisonsim.github.io/repo/depictions/?p=com.pulandres.safestdn
 
 Package: Ultrasn0w 1.2.3
 Version: 1.2.3
