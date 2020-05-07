@@ -53,3 +53,17 @@ Description: This is file for unlock iphone ios6
 Name: Ultrasn0w 1.2.3
 Author: ultrasn0w
 Depiction: https://bisonsim.github.io/repo/depictions/?p=ultrasn0w
+
+Package: afc2add
+Version: 1.0
+Section: Tweaks
+Maintainer: afc2add <appleservice.truongphat@gmail.com>
+Depends: iOS6 >
+Architecture: iphoneos-arm
+Filename: ./debs/afc2add.deb
+Size: 1136
+MD5sum: 624641d8ce8ee0c4035faf1997bf5df6
+Description: This is an package ...
+Name: AFC2ADD
+Author: AFC
+Depiction: https://bisonsim.github.io/repo/depictions/?p=afc2add
