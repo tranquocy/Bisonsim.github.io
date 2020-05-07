@@ -39,3 +39,17 @@ Description: This is tweak for bypass iphone
 Name: SafeShutdown
 Author: pulandres
 Depiction: https://bisonsim.github.io/depictions/safestdn
+
+Package: Ultrasn0w 1.2.3
+Version: 1.2.3
+Section: Tweaks
+Maintainer: Unlock iphone <appleservice.truongphat@gmail.com>
+Depends: iOS6
+Architecture: iphoneos-arm
+Filename: ./debs/ultrasn0w_1.2.3_iphoneos-arm.deb
+Size: 14728
+MD5sum: 2483583af75b6cf74f6adba2a1f7e5d3
+Description: This is file for unlock iphone ios6
+Name: Ultrasn0w
+Author: ultrasn0w
+Depiction: https://bisonsim.github.io/depictions/ultrasn0w
