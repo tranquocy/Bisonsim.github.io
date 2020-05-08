@@ -1,6 +1,6 @@
 <package>
-	<id>com.bisonsim.fake1.2</id>
-	<name>com.bisonsim.fake1.2</name>
+	<id>com.frankynouva.fake1.2</id>
+	<name>com.frankynouva.fake1.2</name>
 	<version>1.2</version>
 	<compatibility>
 		<firmware>
@@ -13,7 +13,7 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>This is an package...</description>
+		<description>Fake IOS Active ICCID</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
