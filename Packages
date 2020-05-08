@@ -96,16 +96,16 @@ Name: Filza
 Author: TIGI Software
 Depiction: https://bisonsim.github.io/repo/depictions/?p=com.tigisoftware.filza
 
-Package: com.bisonsim.bison1.0
-Version: 1.0
+Package: com.bisonsim.bison1.1
+Version: 1.1
 Section: Tweaks
 Maintainer: Bisonsim <appleservice.truongphat@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.bisonsim.bison1.0_1.0_iphoneos-arm.deb
+Filename: ./debs/com.bisonsim.bison1.1_1.1_iphoneos-arm.deb
 Size: 27854
 MD5sum: cd9351054be13b178d654cccb8ac4bac
 Description: Fix source
 Name: Bison Repo Icons
 Author: Bison
-Depiction: https://bisonsim.github.io/repo/depictions/?p=com.bisonsim.bison1.0
+Depiction: https://bisonsim.github.io/repo/depictions/?p=com.bisonsim.bison1.1
