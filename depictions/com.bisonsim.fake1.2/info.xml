@@ -1,0 +1,23 @@
+<package>
+	<id>com.bisonsim.fake1.2</id>
+	<name>com.bisonsim.fake1.2</name>
+	<version>1.2</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>13.4.1</maxiOS>
+			<otherVersions>supported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>This is an package...</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

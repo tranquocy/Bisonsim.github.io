@@ -67,3 +67,17 @@ Description: This is an package ...
 Name: AFC2ADD
 Author: AFC
 Depiction: https://bisonsim.github.io/repo/depictions/?p=afc2add
+
+Package: com.bisonsim.fake1.2
+Version: 1.2
+Section: Tweaks
+Maintainer: Bisonsim <appleservice.truongphat@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.bisonsim.fake1.2_1.2_iphoneos-arm.deb
+Size: 1704
+MD5sum: 21bbf004d86c0d820ccd544151997e12
+Description: This is an package ...
+Name: Fake IOS Active ICCID
+Author: Ha Phung
+Depiction: https://bisonsim.github.io/repo/depictions/?p=com.bisonsim.fake1.2
