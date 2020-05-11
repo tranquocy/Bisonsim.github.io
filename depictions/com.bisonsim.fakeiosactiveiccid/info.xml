@@ -1,0 +1,23 @@
+<package>
+	<id>com.bisonsim.fakeiosactiveiccid</id>
+	<name>com.bisonsim.fakeiosactiveiccid</name>
+	<version>1.3</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>13.5</maxiOS>
+			<otherVersions>supported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Fake IOS Active ICCID</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

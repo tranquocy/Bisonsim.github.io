@@ -53,3 +53,17 @@ Description: Giúp Fake IOS để Active được ICCID thần thánh
 Name: Fake IOS Active ICCID 2
 Author: Ha Phung <ngocha2006.dd@gmail.com>
 Depiction: https://bisonsim.github.io/repo/depictions/?p=com.bison.fakeiosactiveiccid
+
+Package: com.bisonsim.fakeiosactiveiccid
+Version: 1.3
+Section: Tweaks
+Maintainer: Bisonsim <appleservice.truongphat@gmail.com>
+Depends: firmware (>= 5.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.bisonsim.fakeiosactiveiccid_1.3_iphoneos-arm.deb
+Size: 1552
+MD5sum: be9e04033240190409fc6e7918a82dcd
+Description: Giúp Fake IOS để Active được ICCID thần thánh
+Name: Fake IOS 13.5 Active ICCID 
+Author: Bisonsim <appleservice.truongphat@gmail.com>
+Depiction: https://bisonsim.github.io/repo/depictions/?p=com.bisonsim.fakeiosactiveiccid
