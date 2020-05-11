@@ -1,0 +1,23 @@
+<package>
+	<id>com.tigisoftware.filza</id>
+	<name>com.tigisoftware.filza</name>
+	<version>3.7.2</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>13.4.1</maxiOS>
+			<otherVersions>supported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>File Manager</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
