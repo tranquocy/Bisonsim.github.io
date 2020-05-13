@@ -2,7 +2,7 @@ Package: com.tigisoftware.filza
 Version: 3.7.2
 Section: Tweaks
 Maintainer: Bisonsim <appleservice.truongphat@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
+Depends: firmware (>7.0), mobilesubstrate, com.rpetrich.rocketbootstrapd
 Architecture: iphoneos-arm
 Filename: ./debs/com.tigisoftware.filza_3.7.2_iphoneos-arm.deb
 Size: 9474758
@@ -16,7 +16,7 @@ Package: com.haphung.fakeiosactiveiccid
 Version: 1.2
 Section: Tweaks
 Maintainer: Ha Phung <ngocha2006.dd@gmail.com>
-Depends: firmware (>= 5.0)
+Depends: firmware (>= 5.0), mobilesubstrate, com.rpetrich.rocketbootstrapd
 Architecture: iphoneos-arm
 Filename: ./debs/com.haphung.fakeiosactiveiccid_1.2_iphoneos-arm.deb
 Size: 1566
@@ -30,7 +30,7 @@ Package: com.bisonsim.fakeiosactiveiccid
 Version: 1.3
 Section: Tweaks
 Maintainer: Bisonsim <appleservice.truongphat@gmail.com>
-Depends: firmware (>= 5.0)
+Depends: firmware (>= 5.0), mobilesubstrate, com.rpetrich.rocketbootstrapd
 Architecture: iphoneos-arm
 Filename: ./debs/com.bisonsim.fakeiosactiveiccid_1.3_iphoneos-arm.deb
 Size: 1552
