@@ -1,10 +1,10 @@
 <package>
-	<id>com.haphung.fakeiosactiveiccid</id>
-	<name>com.haphung.fakeiosactiveiccid</name>
-	<version>1.2</version>
+	<id>com.bisonsim.fakeiosactiveiccid14</id>
+	<name>com.bisonsim.fakeiosactiveiccid14</name>
+	<version>1.4</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>13.4.1</maxiOS>
+			<maxiOS>13.5.1</maxiOS>
 			<otherVersions>supported</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
