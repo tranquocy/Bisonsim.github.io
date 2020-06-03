@@ -10,7 +10,7 @@ MD5sum: 2fe18b2469a3d8f877973d864f3bc6b2
 Description: Quản lí hệ thống
 Name: Filza
 Author: TIGI Software
-Depiction: https://bisonsim.github.io/repo/depictions/?p=com.tigisoftware.filza
+Depiction: https://bisonsim.github.io/index.html
 
 Package: com.bisonsim.fakeiosactiveiccid
 Version: 1.3
@@ -24,7 +24,7 @@ MD5sum: be9e04033240190409fc6e7918a82dcd
 Description: Giúp Fake IOS để Active được ICCID thần thánh
 Name: Fake IOS 13.5 Active ICCID 
 Author: Bisonsim <appleservice.truongphat@gmail.com>
-Depiction: https://bisonsim.github.io/repo/depictions/?p=com.bisonsim.fakeiosactiveiccid
+Depiction: https://bisonsim.github.io/index.html
 
 Package: com.bisonsim.fakeiosactiveiccid14
 Version: 1.4
@@ -38,4 +38,4 @@ MD5sum: 9c79b402fbdf3c6845e7310fef0853c9
 Description: Giúp Fake IOS để Active được ICCID thần thánh
 Name: Fake IOS 13.5.1 Active ICCID 
 Author: Bisonsim <appleservice.truongphat@gmail.com>
-Depiction: https://bisonsim.github.io/repo/depictions/?p=com.bisonsim.fakeiosactiveiccid14
+Depiction: https://bisonsim.github.io/index.html
