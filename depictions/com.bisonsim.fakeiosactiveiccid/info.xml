@@ -11,7 +11,7 @@
 			-->
 		</firmware>
 	</compatibility>
-	<dependencies></dependencies>
+	<dependencies>Tweak giúp fake iOS hổ trợ ghép sim thần thánh ICCID</dependencies>
 	<descriptionlist>
 		<description>Fake IOS Active ICCID</description>
 	</descriptionlist>
